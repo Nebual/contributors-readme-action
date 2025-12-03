@@ -1,4 +1,4 @@
-name: "Contribute List"
+name: "Contribute List Forked"
 description: "Automation of contributors list in README.md"
 inputs:
     image_size:
